@@ -10,5 +10,5 @@ Libs usadas:
 <li>@material-ui/icons</li>
 </ul>
 
-Sobre
+
 Projeto simulando um site de viagens espaciais com a intenção de praticar autenticação e hooks. Desenvolvido ao longo do curso na Labenu utilizando React.js
